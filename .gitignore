@@ -1,0 +1,9 @@
+.DS_Store
+.Trashes
+
+.gradle
+.idea/
+build/
+*.iml
+notes/
+pinboard.json
